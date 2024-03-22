@@ -1,0 +1,40 @@
+
+  .red-box {
+    background-color:red;
+    width: 600px;
+    height:400px;
+    position: relative;
+    top:    100px;
+    left: 100px;
+  }
+  
+  .blue-box {
+    background-color: #002868;
+    width: 600px;
+    height: 200px;
+    position: absolute;
+    top: 100px;
+    left: 00px;
+  }
+  .circle {
+    width: 150px;
+    height: 150px;
+    background-color: white;
+    border-radius: 50%;
+    position: absolute;
+    top: 125px;
+    left: 225px;
+  }
+
+  
+#circle-text{
+    color: black;
+    margin-top: 1px;
+}
+p{
+    color: white;
+    font-weight: 500;
+    font-size: 55px;
+    text-align: center;
+}
+  
